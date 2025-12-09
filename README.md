@@ -1,12 +1,21 @@
 ### About Us :
 
 🔭 We’re currently working on **Bridging the gap from Learning to Earning for 1M+ students**
+
+
 👯 We’re looking to collaborate on **Open Source AI-Integrated Curriculum & Student Projects**
+
+
 🤝 We’re looking to connect **our 10,000+ job-ready alumni with top hiring partners**
+
+
 🌱 We’re currently integrating **Advanced Generative AI agents for personalized education**
+
+
 💬 Ask us about **AI-Powered Java, Cyber Security, PowerBI, and Career Growth**
-⚡ F
-Fun fact **We are Hyderabad's largest vernacular tech community with a 95% success rate! 🇮🇳**
+
+
+⚡Fun fact **We are Hyderabad's largest vernacular tech community with a 95% success rate! 🇮🇳**
 
 
 ## 🌐 Socials:
