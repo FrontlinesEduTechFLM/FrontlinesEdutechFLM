@@ -1,5 +1,12 @@
-# 💫 About Me:
-🔭 I’m currently working on Bridging the gap from Learning to Earning for 1M+ students<br><br>👯 I’m looking to collaborate on Open Source AI-Integrated Curriculum & Student Projects<br><br>🤝 I’m looking for help with Connecting our 10,000+ job-ready alumni with top hiring partners<br><br>🌱 I’m currently learning Advanced Generative AI agents for personalized education<br><br>💬 Ask me about AI-Powered Java, Cyber Security, PowerBI, and Career Growth<br><br>⚡ Fun fact We are Hyderabad's largest vernacular tech community with a 95% success rate! 🇮🇳
+### About Us :
+
+🔭 We’re currently working on **Bridging the gap from Learning to Earning for 1M+ students**
+👯 We’re looking to collaborate on **Open Source AI-Integrated Curriculum & Student Projects**
+🤝 We’re looking to connect **our 10,000+ job-ready alumni with top hiring partners**
+🌱 We’re currently integrating **Advanced Generative AI agents for personalized education**
+💬 Ask us about **AI-Powered Java, Cyber Security, PowerBI, and Career Growth**
+⚡ F
+Fun fact **We are Hyderabad's largest vernacular tech community with a 95% success rate! 🇮🇳**
 
 
 ## 🌐 Socials:
